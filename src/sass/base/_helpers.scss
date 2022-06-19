@@ -1,0 +1,37 @@
+/* helper classes */
+
+.copy {
+    margin-top: 10em;
+}
+
+.bg-purple {
+    background-color: var(--clr-pri-200);
+    background-image: url(/images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right 2em;
+}
+
+.bg-gray {
+    background-color: var(--clr-pri-300);
+}
+
+.bg-dark {
+    background-color: var(--clr-pri-400);
+}
+
+.bg-white {
+    background-color: var(--clr-pri-100);
+}
+
+.text-ltGray {
+    color: var(--clr-neu-100);
+}
+
+.text-dark {
+    color: var(--clr-pri-300);
+}
+
+.flow-x {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}

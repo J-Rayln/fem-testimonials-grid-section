@@ -1,0 +1,22 @@
+// This file holds all the CSS custom properties stored 
+// in the :root selector.
+
+:root {
+    /* Colors */
+    --clr-pri-100: hsl(0, 0%, 100%);
+    --clr-pri-200: hsl(263, 55%, 52%);
+    --clr-pri-300: hsl(217, 19%, 35%);
+    --clr-pri-400: hsl(219, 29%, 14%);
+    --clr-neu-100: hsl(0, 0%, 81%);
+    --clr-neu-200: hsl(210, 46%, 95%);
+
+    /* Typography */
+    --fs-body: 0.8125rem; // 13px
+    --fs-lg: 1.125rem; // 18px
+    --ff-body: 'Barlow Semi Condensed', sans-serif;
+    --fw-reg: 500;
+    --fw-bold: 600;
+
+    /* Misc */
+    --border-radius: .625rem; // 10px
+}
